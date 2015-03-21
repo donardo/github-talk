@@ -1,3 +1,6 @@
+# Uma introdução ao GitHub
+
+## Sumário
 
 1. **Geral**
   1. Explicar o que é SCM 
@@ -6,7 +9,6 @@
   1. Uma breve história do Git
   1. O que é Git?
   1. Princípios 
-1. **Git Básico**
   1. Alguns comandos básicos (`init, status, add, commit, log`)
   1. Mais alguns comandos (`branch` (sem explicar muito), `clone`, `pull` e `push`)
 1. **GitHub**
@@ -19,3 +21,13 @@
   1. Como contribuir para um projeto no GitHub
 
 ---
+
+## Geral
+
+
+
+## Git Básico
+
+
+
+## GitHub
