@@ -8,7 +8,7 @@
 - O que é Git?
   - Princípios 
 - Git Básico
-  - Alguns comandos básicos (ìnit, status, add, commit, log `)
+  - Alguns comandos básicos (`init, status, add, commit, log`)
   - Mais alguns comandos (`branch` (sem explicar muito), `clone`, `pull` e `push`)
 
 ## GitHub
